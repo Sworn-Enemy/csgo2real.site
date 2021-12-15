@@ -1635,7 +1635,7 @@ body {
 }
 
 .benefits__icon--user {
-  background-image: url("../img/user.svg");
+  background-image: url("../img/user.png");
 }
 
 .benefits__text {
@@ -1651,19 +1651,19 @@ body {
 }
 
 .benefits__icon--gifts {
-  background-image: url("../img/gift.svg");
+  background-image: url("../img/gift.png");
 }
 
 .benefits__icon--bonus {
-  background-image: url("../img/bonus.svg");
+  background-image: url("../img/bonus.png");
 }
 
 .benefits__icon--support {
-  background-image: url("../img/support.svg");
+  background-image: url("../img/support.png");
 }
 
 .benefits__icon--money {
-  background-image: url("../img/money.svg");
+  background-image: url("../img/money.png");
 }
 
 .benefits__btn {
